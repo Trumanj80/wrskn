@@ -1,0 +1,802 @@
+{
+  "type": [
+    {
+      "variation": "Upgrade",
+      "rank": "Rank 4",
+      "xpValue": 1,
+      "picShortcut": "up"
+    },
+    {
+      "variation": "Full Art (Resource)",
+      "rank": "Rank 1",
+      "xpValue": 1,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Black Camo First Wave (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 180000,
+      "picShortcut": "blkcamofw"
+    },
+    {
+      "variation": "Black Camo First Wave (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 180000,
+      "picShortcut": "blkcamofw"
+    },
+    {
+      "variation": "Black Camo First Wave",
+      "rank": "Rank 4",
+      "xpValue": 90000,
+      "picShortcut": "blkcamofw"
+    },
+    {
+      "variation": "Black Camo First Wave",
+      "rank": "Rank 3",
+      "xpValue": 30000,
+      "picShortcut": "blkcamofw"
+    },
+    {
+      "variation": "Black Camo First Wave",
+      "rank": "Rank 2",
+      "xpValue": 12000,
+      "picShortcut": "blkcamofw"
+    },
+    {
+      "variation": "Black Camo First Wave",
+      "rank": "Rank 1",
+      "xpValue": 6000,
+      "picShortcut": "blkcamofw"
+    },
+    {
+      "variation": "Black Camo",
+      "rank": "Rank 4",
+      "xpValue": 24000,
+      "picShortcut": "blkcamo"
+    },
+    {
+      "variation": "Black Camo",
+      "rank": "Rank 3",
+      "xpValue": 8000,
+      "picShortcut": "blkcamo"
+    },
+    {
+      "variation": "Black Camo",
+      "rank": "Rank 2",
+      "xpValue": 3200,
+      "picShortcut": "blkcamo"
+    },
+    {
+      "variation": "Black Camo",
+      "rank": "Rank 1",
+      "xpValue": 1600,
+      "picShortcut": "blkcamo"
+    },
+    {
+      "variation": "Black Camo",
+      "rank": "G-Force",
+      "xpValue": 48000,
+      "picShortcut": "blkcamo"
+    },
+    {
+      "variation": "Black Camo",
+      "rank": "Infinite",
+      "xpValue": 48000,
+      "picShortcut": "blkcamo"
+    },
+    {
+      "variation": "Hacked",
+      "rank": "Rank 4",
+      "xpValue": 24000,
+      "picShortcut": "hack"
+    },
+    {
+      "variation": "Hacked",
+      "rank": "Rank 3",
+      "xpValue": 8000,
+      "picShortcut": "hack"
+    },
+    {
+      "variation": "Hacked",
+      "rank": "Rank 2",
+      "xpValue": 3200,
+      "picShortcut": "hack"
+    },
+    {
+      "variation": "Hacked",
+      "rank": "Rank 1",
+      "xpValue": 1600,
+      "picShortcut": "hack"
+    },
+    {
+      "variation": "Hacked",
+      "rank": "G-Force",
+      "xpValue": 48000,
+      "picShortcut": "hack"
+    },
+    {
+      "variation": "Hacked",
+      "rank": "Infinite",
+      "xpValue": 48000,
+      "picShortcut": "hack"
+    },
+    {
+      "variation": "Smoke Noir",
+      "rank": "Rank 4",
+      "xpValue": 70000,
+      "picShortcut": "smoke"
+    },
+    {
+      "variation": "Smoke Noir",
+      "rank": "Rank 3",
+      "xpValue": 25000,
+      "picShortcut": "smoke"
+    },
+    {
+      "variation": "Smoke Noir",
+      "rank": "Rank 2",
+      "xpValue": 12000,
+      "picShortcut": "smoke"
+    },
+    {
+      "variation": "Smoke Noir",
+      "rank": "Rank 1",
+      "xpValue": 6000,
+      "picShortcut": "smoke"
+    },
+    {
+      "variation": "Smoke Noir",
+      "rank": "Infinite",
+      "xpValue": 125000,
+      "picShortcut": "smoke"
+    },
+    {
+      "variation": "Smoke Noir",
+      "rank": "G-Force",
+      "xpValue": 125000,
+      "picShortcut": "smoke"
+    },
+    {
+      "variation": "24K Gold",
+      "rank": "Rank 4",
+      "xpValue": 125000,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "24K Gold",
+      "rank": "Rank 3",
+      "xpValue": 50000,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "24K Gold",
+      "rank": "Rank 2",
+      "xpValue": 25000,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "24K Gold",
+      "rank": "Rank 1",
+      "xpValue": 12500,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "24K Gold",
+      "rank": "Infinite",
+      "xpValue": 250000,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "24K Gold",
+      "rank": "G-Force",
+      "xpValue": 250000,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "24K Gold (Loot)",
+      "rank": "Rank 4",
+      "xpValue": 500000,
+      "picShortcut": "gold"
+    },
+    {
+      "variation": "Thermal Ash",
+      "rank": "Rank 4",
+      "xpValue": 250000,
+      "picShortcut": "ash"
+    },
+    {
+      "variation": "Thermal Ash",
+      "rank": "Rank 3",
+      "xpValue": 100000,
+      "picShortcut": "ash"
+    },
+    {
+      "variation": "Thermal Ash",
+      "rank": "Rank 2",
+      "xpValue": 50000,
+      "picShortcut": "ash"
+    },
+    {
+      "variation": "Thermal Ash",
+      "rank": "Rank 1",
+      "xpValue": 25000,
+      "picShortcut": "ash"
+    },
+    {
+      "variation": "Thermal Ash",
+      "rank": "Infinite",
+      "xpValue": 500000,
+      "picShortcut": "ash"
+    },
+    {
+      "variation": "Thermal Ash",
+      "rank": "G-Force",
+      "xpValue": 500000,
+      "picShortcut": "ash"
+    },
+    {
+      "variation": "Unique",
+      "rank": "Rank 4",
+      "xpValue": 9000,
+      "picShortcut": "unique"
+    },
+    {
+      "variation": "Unique",
+      "rank": "Rank 3",
+      "xpValue": 3000,
+      "picShortcut": "unique"
+    },
+    {
+      "variation": "Unique",
+      "rank": "Rank 2",
+      "xpValue": 1200,
+      "picShortcut": "unique"
+    },
+    {
+      "variation": "Unique",
+      "rank": "Rank 1",
+      "xpValue": 600,
+      "picShortcut": "unique"
+    },
+    {
+      "variation": "Unique",
+      "rank": "Infinite",
+      "xpValue": 18000,
+      "picShortcut": "unique"
+    },
+    {
+      "variation": "Unique",
+      "rank": "G-Force",
+      "xpValue": 18000,
+      "picShortcut": "unique"
+    },
+    {
+      "variation": "Loot",
+      "rank": "Rank 1",
+      "xpValue": 0,
+      "picShortcut": "loot"
+    },
+    {
+      "variation": "Loot",
+      "rank": "Rank 2",
+      "xpValue": 0,
+      "picShortcut": "loot"
+    },
+    {
+      "variation": "Loot",
+      "rank": "Rank 3",
+      "xpValue": 0,
+      "picShortcut": "loot"
+    },
+    {
+      "variation": "Loot",
+      "rank": "Rank 4",
+      "xpValue": 0,
+      "picShortcut": "loot"
+    },
+    {
+      "variation": "Tenant",
+      "rank": "Rank 4",
+      "xpValue": 0,
+      "picShortcut": "tenant"
+    },
+    {
+      "variation": "Owner",
+      "rank": "Rank 4",
+      "xpValue": 0,
+      "picShortcut": "owner"
+    },
+    {
+      "variation": "Decadent",
+      "rank": "Rank 4",
+      "xpValue": 500000,
+      "picShortcut": "dec"
+    },
+    {
+      "variation": "Murdered Out",
+      "rank": "Rank 4",
+      "xpValue": 12000,
+      "picShortcut": "murder"
+    },
+    {
+      "variation": "Murdered Out (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 48000,
+      "picShortcut": "murder"
+    },
+    {
+      "variation": "Murdered Out (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 48000,
+      "picShortcut": "murder"
+    },
+    {
+      "variation": "Murdered Out (Decadent)",
+      "rank": "Rank 4",
+      "xpValue": 125000,
+      "picShortcut": "murder"
+    },
+    {
+      "variation": "Blood Foil",
+      "rank": "Rank 1",
+      "xpValue": 50000,
+      "picShortcut": "blood"
+    },
+    {
+      "variation": "Blood Foil",
+      "rank": "Rank 2",
+      "xpValue": 100000,
+      "picShortcut": "blood"
+    },
+    {
+      "variation": "Blood Foil",
+      "rank": "Rank 3",
+      "xpValue": 200000,
+      "picShortcut": "blood"
+    },
+    {
+      "variation": "Blood Foil",
+      "rank": "Rank 4",
+      "xpValue": 500000,
+      "picShortcut": "blood"
+    },
+    {
+      "variation": "Blood Foil (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 1000000,
+      "picShortcut": "blood"
+    },
+    {
+      "variation": "Blood Foil (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 1000000,
+      "picShortcut": "blood"
+    },
+    {
+      "variation": "Foil Prime",
+      "rank": "Rank 1",
+      "xpValue": 200,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Foil Prime",
+      "rank": "Rank 2",
+      "xpValue": 400,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Foil Prime",
+      "rank": "Rank 3",
+      "xpValue": 1000,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Foil Prime",
+      "rank": "Rank 4",
+      "xpValue": 3000,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Foil Prime (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 6000,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Foil Prime (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 6000,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Foil Prime (Loot)",
+      "rank": "Rank 4",
+      "xpValue": 18000,
+      "picShortcut": "foil"
+    },
+    {
+      "variation": "Camo",
+      "rank": "Rank 1",
+      "xpValue": 400,
+      "picShortcut": "camo"
+    },
+    {
+      "variation": "Camo",
+      "rank": "Rank 2",
+      "xpValue": 800,
+      "picShortcut": "camo"
+    },
+    {
+      "variation": "Camo",
+      "rank": "Rank 3",
+      "xpValue": 2000,
+      "picShortcut": "camo"
+    },
+    {
+      "variation": "Camo",
+      "rank": "Rank 4",
+      "xpValue": 6000,
+      "picShortcut": "camo"
+    },
+    {
+      "variation": "Foil Fire First Wave",
+      "rank": "Rank 1",
+      "xpValue": 8000,
+      "picShortcut": "foilfire"
+    },
+    {
+      "variation": "Foil Fire First Wave",
+      "rank": "Rank 2",
+      "xpValue": 16000,
+      "picShortcut": "foilfire"
+    },
+    {
+      "variation": "Foil Fire First Wave",
+      "rank": "Rank 3",
+      "xpValue": 40000,
+      "picShortcut": "foilfire"
+    },
+    {
+      "variation": "Foil Fire First Wave",
+      "rank": "Rank 4",
+      "xpValue": 120000,
+      "picShortcut": "foilfire"
+    },
+    {
+      "variation": "Foil Fire First Wave (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 240000,
+      "picShortcut": "foilfire"
+    },
+    {
+      "variation": "Foil Fire First Wave (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 240000,
+      "picShortcut": "foilfire"
+    },
+    {
+      "variation": "Night Vision",
+      "rank": "Rank 1",
+      "xpValue": 800,
+      "picShortcut": "nv"
+    },
+    {
+      "variation": "Night Vision",
+      "rank": "Rank 2",
+      "xpValue": 1600,
+      "picShortcut": "nv"
+    },
+    {
+      "variation": "Night Vision",
+      "rank": "Rank 3",
+      "xpValue": 4000,
+      "picShortcut": "nv"
+    },
+    {
+      "variation": "Night Vision",
+      "rank": "Rank 4",
+      "xpValue": 12000,
+      "picShortcut": "nv"
+    },
+    {
+      "variation": "Night Vision (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 24000,
+      "picShortcut": "nv"
+    },
+    {
+      "variation": "Night Vision (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 24000,
+      "picShortcut": "nv"
+    },
+    {
+      "variation": "Camo (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 12000,
+      "picShortcut": "camo"
+    },
+    {
+      "variation": "Camo (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 12000,
+      "picShortcut": "camo"
+    },
+    {
+      "variation": "Hex Tech",
+      "rank": "Rank 1",
+      "xpValue": 600,
+      "picShortcut": "hex"
+    },
+    {
+      "variation": "Hex Tech",
+      "rank": "Rank 2",
+      "xpValue": 1200,
+      "picShortcut": "hex"
+    },
+    {
+      "variation": "Hex Tech",
+      "rank": "Rank 3",
+      "xpValue": 3000,
+      "picShortcut": "hex"
+    },
+    {
+      "variation": "Hex Tech",
+      "rank": "Rank 4",
+      "xpValue": 9000,
+      "picShortcut": "hex"
+    },
+    {
+      "variation": "Hex Tech (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 18000,
+      "picShortcut": "hex"
+    },
+    {
+      "variation": "Hex Tech (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 18000,
+      "picShortcut": "hex"
+    },
+    {
+      "variation": "Base",
+      "rank": "Rank 1",
+      "xpValue": 1,
+      "picShortcut": "base"
+    },
+    {
+      "variation": "Base",
+      "rank": "Rank 2",
+      "xpValue": 2,
+      "picShortcut": "base"
+    },
+    {
+      "variation": "Base",
+      "rank": "Rank 3",
+      "xpValue": 5,
+      "picShortcut": "base"
+    },
+    {
+      "variation": "Base",
+      "rank": "Rank 4",
+      "xpValue": 15,
+      "picShortcut": "base"
+    },
+    {
+      "variation": "Fire Forged",
+      "rank": "Rank 1",
+      "xpValue": 200,
+      "picShortcut": "fire"
+    },
+    {
+      "variation": "Fire Forged",
+      "rank": "Rank 2",
+      "xpValue": 400,
+      "picShortcut": "fire"
+    },
+    {
+      "variation": "Fire Forged",
+      "rank": "Rank 3",
+      "xpValue": 1000,
+      "picShortcut": "fire"
+    },
+    {
+      "variation": "Fire Forged",
+      "rank": "Rank 4",
+      "xpValue": 3000,
+      "picShortcut": "fire"
+    },
+    {
+      "variation": "Fire Forged First Wave",
+      "rank": "Rank 1",
+      "xpValue": 3000,
+      "picShortcut": "firefw"
+    },
+    {
+      "variation": "Fire Forged First Wave",
+      "rank": "Rank 2",
+      "xpValue": 6000,
+      "picShortcut": "firefw"
+    },
+    {
+      "variation": "Fire Forged First Wave",
+      "rank": "Rank 3",
+      "xpValue": 15000,
+      "picShortcut": "firefw"
+    },
+    {
+      "variation": "Fire Forged First Wave",
+      "rank": "Rank 4",
+      "xpValue": 45000,
+      "picShortcut": "firefw"
+    },
+    {
+      "variation": "Full Art Medal",
+      "rank": "Rank 1",
+      "xpValue": 20,
+      "picShortcut": "medal"
+    },
+    {
+      "variation": "Full Art Medal",
+      "rank": "Rank 2",
+      "xpValue": 40,
+      "picShortcut": "medal"
+    },
+    {
+      "variation": "Full Art Medal",
+      "rank": "Rank 3",
+      "xpValue": 100,
+      "picShortcut": "medal"
+    },
+    {
+      "variation": "Full Art Medal",
+      "rank": "Rank 4",
+      "xpValue": 300,
+      "picShortcut": "medal"
+    },
+    {
+      "variation": "Full Art",
+      "rank": "Rank 1",
+      "xpValue": 10,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Full Art",
+      "rank": "Rank 2",
+      "xpValue": 20,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Full Art",
+      "rank": "Rank 3",
+      "xpValue": 50,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Full Art",
+      "rank": "Rank 4",
+      "xpValue": 150,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Promo",
+      "rank": "Rank 1",
+      "xpValue": 1,
+      "picShortcut": "promo"
+    },
+    {
+      "variation": "Promo",
+      "rank": "Rank 2",
+      "xpValue": 2,
+      "picShortcut": "promo"
+    },
+    {
+      "variation": "Promo",
+      "rank": "Rank 3",
+      "xpValue": 5,
+      "picShortcut": "promo"
+    },
+    {
+      "variation": "Promo",
+      "rank": "Rank 4",
+      "xpValue": 15,
+      "picShortcut": "promo"
+    },
+    {
+      "variation": "Full Art Medal First Wave",
+      "rank": "Rank 1",
+      "xpValue": 1000,
+      "picShortcut": "medalfw"
+    },
+    {
+      "variation": "Full Art Medal First Wave",
+      "rank": "Rank 2",
+      "xpValue": 2000,
+      "picShortcut": "medalfw"
+    },
+    {
+      "variation": "Full Art Medal First Wave",
+      "rank": "Rank 3",
+      "xpValue": 5000,
+      "picShortcut": "medalfw"
+    },
+    {
+      "variation": "Full Art Medal First Wave",
+      "rank": "Rank 4",
+      "xpValue": 15000,
+      "picShortcut": "medalfw"
+    },
+    {
+      "variation": "Camo Edge First Wave",
+      "rank": "Rank 1",
+      "xpValue": 4000,
+      "picShortcut": "camoedge"
+    },
+    {
+      "variation": "Camo Edge First Wave",
+      "rank": "Rank 2",
+      "xpValue": 8000,
+      "picShortcut": "camoedge"
+    },
+    {
+      "variation": "Camo Edge First Wave",
+      "rank": "Rank 3",
+      "xpValue": 20000,
+      "picShortcut": "camoedge"
+    },
+    {
+      "variation": "Camo Edge First Wave",
+      "rank": "Rank 4",
+      "xpValue": 60000,
+      "picShortcut": "camoedge"
+    },
+    {
+      "variation": "Fire Forged (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 6000,
+      "picShortcut": "fire"
+    },
+    {
+      "variation": "Fire Forged (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 6000,
+      "picShortcut": "fire"
+    },
+    {
+      "variation": "Fire Forged First Wave (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 90000,
+      "picShortcut": "firefw"
+    },
+    {
+      "variation": "Fire Forged First Wave (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 90000,
+      "picShortcut": "firefw"
+    },
+    {
+      "variation": "Full Art (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 300,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Full Art (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 300,
+      "picShortcut": "full"
+    },
+    {
+      "variation": "Camo Edge First Wave (Infinite)",
+      "rank": "Rank 4",
+      "xpValue": 120000,
+      "picShortcut": "camoedge"
+    },
+    {
+      "variation": "Camo Edge First Wave (G-Force)",
+      "rank": "Rank 4",
+      "xpValue": 120000,
+      "picShortcut": "camoedge"
+    }
+  ]
+}
